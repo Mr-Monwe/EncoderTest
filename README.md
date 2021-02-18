@@ -1,6 +1,6 @@
 # EnocderTest
 
-## Arduino code for LPD3806-360BM-G5-24C Incremental Rotary Encoder
+### Arduino code for LPD3806-360BM-G5-24C Incremental Rotary Encoder
 ### *This Code uses the arduino's internal pull-up resistors*
 
 ## Pinout:
