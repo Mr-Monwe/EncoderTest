@@ -4,7 +4,6 @@
 ### *This Code uses the arduino's internal pull-up resistors*
 
 ## Pinout:
-
 - RED WIRE - **5V**
 - BLACK WIRE - **GND**
 - GREEN WIRE - **CHANNEL A**
