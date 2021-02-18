@@ -10,7 +10,7 @@
 - GREEN WIRE - **CHANNEL A**
 - WHITE WIRE - **CHANNEL B**
 - SHIELD WIRE - **GND**
-
+ 
 ## Images of the Encoder 
 ![alt text](assets/1.png)
 
